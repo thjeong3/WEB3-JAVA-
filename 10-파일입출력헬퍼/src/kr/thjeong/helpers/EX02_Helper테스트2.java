@@ -3,7 +3,7 @@ package kr.thjeong.helpers;
 public interface EX02_Helper테스트2 {
     public static void main(String[] args) {
         
-    
+        System.out.println("ㅇㅇㅇㅇ");
         String filePath = "./helper테스트2.txt";
         String content = "이것은 테스트 2 입니다";
 
